@@ -9,7 +9,7 @@ setup(
     description="Testnet faucet for NanoPy Network",
     long_description="NanoPy Faucet - Multi-network testnet faucet for NanoPy L1 and Turbo L2.",
     long_description_content_type="text/markdown",
-    url="https://github.com/nanopy/nanopy-faucet",
+    url="https://github.com/Web3-League/faucet-testnet",
     packages=find_packages(),
     python_requires=">=3.8",
     install_requires=[
