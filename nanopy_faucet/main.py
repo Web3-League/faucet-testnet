@@ -33,7 +33,7 @@ NETWORKS = {
     "testnet": NetworkConfig(
         chain_id=77777,
         name="NanoPy Testnet",
-        rpc="http://51.68.125.99:8546",
+        rpc="https://rpc.nanopy.eu",
         symbol="NPY",
         amount=10.0,
         cooldown=3600,  # 1 hour
@@ -42,7 +42,7 @@ NETWORKS = {
     "turbo": NetworkConfig(
         chain_id=777702,
         name="NanoPy Turbo L2 Testnet",
-        rpc="http://51.68.125.99:8548",
+        rpc="https://l2.nanopy.eu",
         symbol="NPY",
         amount=100.0,  # More for L2 testing
         cooldown=1800,  # 30 minutes

@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="nanopy-faucet",
-    version="2.0.3",
+    version="2.0.5",
     author="NanoPy Team",
     author_email="dev@nanopy.chain",
     description="Testnet faucet for NanoPy Network",

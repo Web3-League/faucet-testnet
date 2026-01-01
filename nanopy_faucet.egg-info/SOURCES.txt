@@ -1,4 +1,5 @@
 MANIFEST.in
+README.md
 setup.py
 nanopy_faucet/__init__.py
 nanopy_faucet/__main__.py

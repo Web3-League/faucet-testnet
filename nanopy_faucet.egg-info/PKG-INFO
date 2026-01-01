@@ -1,8 +1,8 @@
 Metadata-Version: 2.4
 Name: nanopy-faucet
-Version: 2.0.3
+Version: 2.0.5
 Summary: Testnet faucet for NanoPy Network
-Home-page: https://github.com/nanopy/nanopy-faucet
+Home-page: https://github.com/Web3-League/faucet-testnet
 Author: NanoPy Team
 Author-email: dev@nanopy.chain
 Keywords: blockchain faucet nanopy testnet
